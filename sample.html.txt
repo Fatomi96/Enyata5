@@ -5,3 +5,5 @@ Git is awesome
 I love git training....
 
 This training is great 
+
+Programming is great
