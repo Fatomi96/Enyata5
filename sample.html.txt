@@ -1,0 +1,7 @@
+This is the first sample
+
+Git is awesome
+
+I love git training....
+
+This training is great 
